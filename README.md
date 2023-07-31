@@ -1,5 +1,6 @@
 # Ajax_Study
 
+<br>
 
 ## Ajax, Asynchronous JavaScript and XML
 - 비동기 자바스크립트 & XML
@@ -13,7 +14,7 @@
 - jQuery 버전
 - ES6 자바스크립트 버전 
 
-
+<br>
 
 ## 파일 생성
 - com.test.ajax > "Ex01.java"
@@ -31,23 +32,27 @@
 > "Ex03Data.java" //중요
 > "ex03.jsp"
 
+<br>
 
 -----------------------------------------------------------------------------
+<br>
 
 > "Ex04.java"
 > "ex04.jsp"
 
+<br>
 
-- 페이지 > 보임
+## - 페이지 > 보임
 com.test.ajax > "Ex05.java"
 views > ex05.jsp
-
-- 데이터(처리) > 안보임
+<br>
+## - 데이터(처리) > 안보임
 com.test.ajax > "Ex05Data.java"
 views > ex05ok.jsp
 webapp > ex05.txt
 
 
+<br>
 
 ## ***** 미리 결정!!
 서버 페이지(Servlet/JSP)를 만들 때
@@ -66,6 +71,7 @@ views > "ex07.jsp"
 
 com.test.ajax > "Ex07Data.java"
 
+<br>
 
 ## -아이디 중복검사
 
@@ -77,6 +83,8 @@ com.test.ajax > "Ex07Data.java"
 
 - com.test.ajax > "Ex08Data.java"
 
+<br>
+
 ## -- 우편번호 검색
 
 -com.test.ajax > "Ex09.java"
@@ -85,12 +93,15 @@ com.test.ajax > "Ex07Data.java"
 - com.test.ajax > "Ex09Data.java"
 - com.test.ajax > "ZipCode.java"
 
+<br>
 
 ## - 데이터 송수신
 - com.test.ajax > "Ex10.java"
 - views > "ex10.jsp"
 
 - com.test.ajax > "Ex10Data.java"
+  
+<br>
 
 ## - 테이블문제
 - com.test.ajax > "Ex11.java"
@@ -104,6 +115,7 @@ com.test.ajax > "Ex07Data.java"
 
 - com.test.ajax > "Ex12Data.java"
 
+<br>
 
 ## - 상품 목록 페이지
 - com.test.ajax > "Ex13.java"
@@ -115,6 +127,7 @@ com.test.ajax > "Ex07Data.java"
 - views > "ex13.jsp"
 - webapp > "pic" > pic.png
 
+<br>
 
 ## - 게시판 목록보기
 - com.test.ajax > "Ex14.java"
